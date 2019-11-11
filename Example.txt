@@ -1,0 +1,8 @@
+parser.exe -h -f1,23,4 -m --help
+
+ARG: Help
+ARG: File, Value:
+1
+23
+4
+ARG: Message, Value = NULL
